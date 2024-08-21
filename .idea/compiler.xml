@@ -7,13 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PrincipioLiskov" />
-        <module name="InversionDeDependencias" />
+        <module name="ResponsabilidadUnica" />
         <module name="PrincipiosSolid" />
+        <module name="SegregacionDeInterfaces" />
+        <module name="InversionDeDependencias" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ResponsabilidadUnica" target="11" />
-      <module name="SegregacionDeInterfaces" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
