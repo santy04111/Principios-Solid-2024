@@ -8,10 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="PrincipioLiskov" />
         <module name="InversionDeDependencias" />
+        <module name="PrincipiosSolid" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PrincipiosSolid" target="11" />
       <module name="ResponsabilidadUnica" target="11" />
       <module name="SegregacionDeInterfaces" target="11" />
     </bytecodeTargetLevel>
