@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/InversionDeDependencias/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/InversionDeDependencias/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/PrincipioLiskov/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/PrincipioLiskov/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/Principios Abierto-Cerrado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/Principios Abierto-Cerrado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/ResponsabilidadUnica/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/ResponsabilidadUnica/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/SegregacionDeInterfaces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Principios-Solid-main/Principios-Solid-main/SegregacionDeInterfaces/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
