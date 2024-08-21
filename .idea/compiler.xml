@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="PrincipioLiskov" />
         <module name="InversionDeDependencias" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PrincipioLiskov" target="11" />
       <module name="PrincipiosSolid" target="11" />
       <module name="ResponsabilidadUnica" target="11" />
       <module name="SegregacionDeInterfaces" target="11" />
