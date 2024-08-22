@@ -1,12 +1,19 @@
 package com.mycompany.principioliskov;
 
-public class ConfiguracionHoraria implements RecursoPersistente {
+public class ConfiguracionHoraria implements RecursoPersistente, Notificable{
 
     public void load() {
         System.out.println("Configuracion horaria cargada");
+        notificar();
     }
 
+    @Override
     public void save() {
-        System.out.println("ERROR, la hora no se puede almacenar, es solo de lectura");
+
+    }
+
+    @Override
+    public void notificar() {
+        System.out.println("Notificación: La configuración horaria ha sido cargada.");
     }
 }
